@@ -10,19 +10,19 @@
 main:
 
   - title: "Research"
-   url: /research/
-
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "News and Updates"
-    url: /news/
+  - title: "Updates and News"
+    url: /News/
 
   - title: "Projects"
     url: /projects/
 
   - title: "CV"
-    url: /cv/
+    url: /cv/ 
 
   # - title: "Publications"
   #   url: /publications/
