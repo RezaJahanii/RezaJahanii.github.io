@@ -32,7 +32,7 @@ Skills
 * Programming
   * MATLAB, Python, C/C++, Verilog
 * Libraries/Tools
-  * PyTorch, Numpy, Pandas, scikit-learn, sklearn, keras
+  * PyTorch, Anaconda, Numpy, Pandas, scikit-learn, sklearn, keras
 * Knowledge
   * Linux, Optimization, Machine Learning, Deep Learning, Neural Networks, Signal Processing, Simulink
 * Interpersonal
@@ -46,8 +46,7 @@ Honors and Awards
     
 Teaching
 ======
-* Digital Signal Processing    |        Head-TA
-   * Head-TA of the course
+* Digital Signal Processing    |        Fall 2023    |    Head-TA
    * Department of Electrical and Computer Engineering, University of Tehran
    * Holding problem sessions and managing course assignments (Projects, HWs, Quizes)
 
