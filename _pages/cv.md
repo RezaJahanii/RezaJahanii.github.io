@@ -17,12 +17,13 @@ Education
 Research experience
 ======
 * Spring 2025 - Now: Graduate Research Assistant
+  * Depratment of ECE, NC State University
   * Working on Federated Learning systems.
   * Investigating Mobility Aware Decentralized Federated Learning systems.
   * Working on Distributed Optimization.
 
 * Summer 2022 - Fall 2022: Undergraduate Research Assistant
-  * Telecommunication Innovation Lab (TIL)
+  * Telecommunication Innovation Lab (TIL), Department of ECE, University of Tehran
   * Deep Learning Based 2D-DOA Estimation using L-Shpaed Arrays
 
   
