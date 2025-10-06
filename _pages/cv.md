@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. | Electrical Engineering || North Carolina State University, 2025-2029  |  GPA: 4/4
+* B.Sc. | Electrical Engineering || University of Tehran, 2019-2023  | GPA: 3.88/4
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025 - Now: Graduate Research Assistant
+  * Working on Federated Learning systems.
+  * Investigating Mobility Aware Decentralized Federated Learning systems.
+  * Working on Distributed Optimization.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022 - Fall 2022: Undergraduate Research Assistant
+  * Telecommunication Innovation Lab (TIL)
+  * Deep Learning Based 2D-DOA Estimation using L-Shpaed Arrays
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * MATLAB, Python, C/C++, Verilog
+* Libraries/Tools
+  * PyTorch, Numpy, Pandas, scikit-learn, sklearn, keras
+* Knowledge
+  * Linux, Optimization, Machine Learning, Deep Learning, Neural Networks, Signal Processing, Simulink
+* Interpersonal
+  * Easily Adaptable, Technical Writing, Teamwork, Research, Social, Hard-Working
 
-Publications
+Honors and Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+• Ranked 198 among 160000 participants in entrance exam of universities (Top 0.1%).
+• Ranked 14 in B.Sc. Program at University of Tehran, School of ECE.
+• Received the Graduate-Merit Award from North Carolina State University graduate school in Spring 2025 and Summer 2025.
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Digital Signal Processing    |        Head-TA
+   * Head-TA of the course
+   * Department of Electrical and Computer Engineering, University of Tehran
+   * Holding problem sessions and managing course assignments (Projects, HWs, Quizes)
+
