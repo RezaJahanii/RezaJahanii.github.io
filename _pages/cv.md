@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. | Electrical Engineering | North Carolina State University  |  2025-2029  |  GPA: 4/4
-* B.Sc. | Electrical Engineering | University of Tehran  |  2019-2023  | GPA: 3.88/4
+* B.Sc. | Electrical Engineering | University of Tehran  |  2019-2023  | GPA: 3.92/4
 
 Research experience
 ======
