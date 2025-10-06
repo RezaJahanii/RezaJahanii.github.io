@@ -11,4 +11,4 @@ I'm Reza. I am a Ph.D. student in Electrical Engineering at North Carolina State
 
 My research lies at the intersection of Wireless Networks and Machine Learning, currently focusing on Federated Learning and Distributed Optimization. I am pursuing my Ph.D. degree under supervision of Professor <a href="https://hdai.wordpress.ncsu.edu/" style="color: #0056b3;">Huaiyu Dai</a>. 
 
-I like to go hiking and hit the gym regularly. In my free time, I enjoy learning new things. Currently, I am learning about Quantum Physics. I love to read books and watch movies.
+I like to go hiking and hit the gym regularly. In my free time, I enjoy learning new things. Currently, I have a found a great interest in Quantum Physics. I love to read books and watch movies.
