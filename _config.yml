@@ -123,6 +123,10 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
+# Theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: default
+enable_darkmode: false
 
 # SEO Related
 google_site_verification :
